@@ -1,4 +1,4 @@
-## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Hiqal (PusakStar)](https://www.linkedin.com/in/abang-muhammad-hiqal-bin-abg-hamizam-36a241306), Nice to bump into you!**
+## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [(PusakStar)](https://www.linkedin.com/in/abang-muhammad-hiqal-bin-abg-hamizam-36a241306), Nice to bump into you!**
 
 ## About Me 🙂
 - *A modern **web developer** who sometimes makes code work on the first try… sometimes not* 🤷‍♂️  
