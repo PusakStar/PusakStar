@@ -1,10 +1,11 @@
 ## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Hiqal (PusakStar)](https://www.linkedin.com/in/abang-muhammad-hiqal-bin-abg-hamizam-36a241306), Nice to bump into you!**
 
 ## About Me 🙂
-- *A modern **web developer** who writes **code that sometimes works on the first try… sometimes not*** 🤷‍♂️  
-- ***Open-source** enthusiast and accidental bug creator* 🐛  
-- ***Exploring** new tech stacks like a caffeinated squirrel* ☕🐿️  
-- Professional coffee drinker, amateur keyboard ninja ⌨️🥷  
+- *A modern **web developer** who sometimes makes code work on the first try… sometimes not* 🤷‍♂️  
+- *Founder of [tinydevs.space](https://tinydevs.space) – where bugs fear me and web apps love me* 🐛💻  
+- *Postgraduate Diploma student in CS | Bachelor's in Information Systems Engineering | Freelance software engineer* 🎓  
+- *I build intuitive, fast, and visually engaging web apps that humans (and cats) enjoy* 🐱💻  
+- *Experienced in Agile SDLC, project management, and making teams look cooler than they actually are* 😎  
 
 #### Wanna know more? Check my [LinkedIn](https://www.linkedin.com/in/abang-muhammad-hiqal-bin-abg-hamizam-36a241306) for the serious stuff (and maybe some awkward profile photos).
 
@@ -25,7 +26,7 @@
 
 <h2 align="center">Tools & Technologies ⚡</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,vue,python,flask,fastapi,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,git" />
 </p>
 
 ---
